@@ -39,7 +39,7 @@ from AI malaria diagnostics to EMG-driven rehabilitation robotics.
 | **HAZIRI** | Facial recognition attendance system · RetinaFace + InsightFace · IEEE accepted | Django · InsightFace · RetinaFace | *Coming soon* |
 | **HG002 Variant Calling** | Nextflow DSL2 long-read variant calling pipeline · DeepVariant + Clair3 · GIAB benchmarked | Nextflow · SLURM · Python | [→ View](https://github.com/DataHackerAsim/HG002-Long-Read-Variant-Calling-Pipeline) |
 | **RISC-V on FPGA** | Booted Linux on a custom LiteX/VexRiscv SoC synthesized on Nexys A7-100T | LiteX · VexRiscv · SpinalHDL · Vivado | [→ View](https://github.com/DataHackerAsim/RISCV-Linux-NexysA7) |
-| **Parallel Cardiac Sim** | MPI-parallelised cardiac electrophysiology simulation with domain decomposition | C · MPI · OpenMPI · Beamer | [→ View](https://github.com/DataHackerAsim/parallel-cardiac-sim-mpi) |
+| **Parallel Cardiac Sim** | MPI-parallelised cardiac electrophysiology simulation with domain decomposition | C · MPI · OpenMPI · Beamer | *Coming soon* |
 | **NeuroRevive** | EMG-driven soft robotic glove for post-stroke hand rehabilitation (FYP) | ESP32-S3 · ADS1115 · BLE · C++ | *In development* |
 
 ---
