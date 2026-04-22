@@ -101,35 +101,64 @@ resource-constrained settings across Pakistan.
 
 ## 🛠 Tech Stack
 
-<div align="center">
+<table align="center" border="0" cellspacing="0" cellpadding="8">
 
-**Machine Learning & Vision**
+  <tr>
+    <td align="right" width="160">
+      <sub><b>ML &amp; Vision</b></sub>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+      <img src="https://img.shields.io/badge/YOLOv11-00FFAA?style=flat-square&logoColor=black"/>
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+    </td>
+  </tr>
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,opencv&theme=dark" />
-<br/><sub>Python &nbsp;·&nbsp; PyTorch &nbsp;·&nbsp; OpenCV</sub>
+  <tr>
+    <td align="right">
+      <sub><b>Embedded &amp; Hardware</b></sub>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+      <img src="https://img.shields.io/badge/ESP32--S3-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
+      <img src="https://img.shields.io/badge/FPGA-Nexys%20A7-9B1D1D?style=flat-square"/>
+      <img src="https://img.shields.io/badge/RISC--V-Linux%20Boot-283272?style=flat-square"/>
+      <img src="https://img.shields.io/badge/SpinalHDL%2FVerilog-6D3EBF?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Vivado-E01F27?style=flat-square"/>
+    </td>
+  </tr>
 
-<br/><br/>
+  <tr>
+    <td align="right">
+      <sub><b>Bioinformatics &amp; HPC</b></sub>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Nextflow_DSL2-3EAE2B?style=flat-square"/>
+      <img src="https://img.shields.io/badge/SLURM-HPC-2E4057?style=flat-square"/>
+      <img src="https://img.shields.io/badge/MPI-OpenMPI-0078D7?style=flat-square"/>
+      <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
+      <img src="https://img.shields.io/badge/DeepVariant-4285F4?style=flat-square&logo=google&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Clair3-1E6B3A?style=flat-square"/>
+    </td>
+  </tr>
 
-**Embedded Systems & Hardware**
+  <tr>
+    <td align="right">
+      <sub><b>Web &amp; Backend</b></sub>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+      <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
+    </td>
+  </tr>
 
-<img src="https://skillicons.dev/icons?i=cpp,arduino,linux&theme=dark" />
-<br/><sub>C/C++ &nbsp;·&nbsp; ESP32-S3 &nbsp;·&nbsp; FPGA / RISC-V &nbsp;·&nbsp; Verilog / SpinalHDL</sub>
-
-<br/><br/>
-
-**Bioinformatics & HPC**
-
-<img src="https://skillicons.dev/icons?i=linux,bash,docker&theme=dark" />
-<br/><sub>Nextflow DSL2 &nbsp;·&nbsp; SLURM &nbsp;·&nbsp; MPI &nbsp;·&nbsp; CUDA &nbsp;·&nbsp; DeepVariant &nbsp;·&nbsp; Clair3</sub>
-
-<br/><br/>
-
-**Web & Backend**
-
-<img src="https://skillicons.dev/icons?i=django,postgres,git,latex&theme=dark" />
-<br/><sub>Django &nbsp;·&nbsp; PostgreSQL &nbsp;·&nbsp; Git &nbsp;·&nbsp; LaTeX</sub>
-
-</div>
+</table>
 
 ---
 
