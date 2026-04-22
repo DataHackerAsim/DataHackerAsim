@@ -60,7 +60,7 @@ in low-resource healthcare settings across Pakistan.
   <tbody>
     <tr>
       <td><b>🦟 MalariaSense</b></td>
-      <td>YOLOv11 malaria parasite detection · 88% recall · targeting $300 BHU deployment</td>
+      <td>YOLOv11 malaria parasite detection · 85% recall · targeting $300 BHU deployment</td>
       <td><code>PyTorch</code> <code>YOLOv11</code> <code>OpenCV</code></td>
       <td><i>Coming soon</i></td>
     </tr>
