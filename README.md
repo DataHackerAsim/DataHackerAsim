@@ -71,22 +71,6 @@ I'm a 6th-semester BS Bioinformatics student at **NUST SINES**, Islamabad, build
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=DataHackerAsim&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DataHackerAsim&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=DataHackerAsim&theme=github-dark-blue&hide_border=true)
-
-</div>
-
----
 
 ## 📄 Research & Recognition
 
