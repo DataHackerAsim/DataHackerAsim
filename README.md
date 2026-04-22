@@ -1,4 +1,4 @@
-div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,24&height=220&section=header&text=Asim%20Ahmed&fontSize=56&fontColor=ffffff&fontAlignY=40&desc=Bioinformatics%20%E2%80%A2%20Embedded%20AI%20%E2%80%A2%20Healthcare%20Devices&descAlignY=62&descSize=17&animation=fadeIn" />
 
