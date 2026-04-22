@@ -30,8 +30,6 @@
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DataHackerAsim&layout=compact&theme=github_dark&hide_border=true&langs_count=6&card_width=240" width="260"/>
-
 ### 👋 About Me
 
 I'm a 6th-semester **BS Bioinformatics** student at **NUST SINES**,
@@ -45,8 +43,6 @@ in low-resource healthcare settings across Pakistan.
 - 💻 Booted **Linux on RISC-V** — LiteX/VexRiscv on Nexys A7-100T
 - 🌍 **ISR @ SCALE, NUST** — Institutional Student Representative
 - 📍 Karachi / Islamabad, Pakistan
-
-<br clear="right"/>
 
 ---
 
@@ -172,5 +168,5 @@ and **embedded systems** for low-resource settings.
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,24&height=110&section=footer&reversal=true" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:0a2a6e,100:0d1117&height=120&section=footer" />
 </div>
