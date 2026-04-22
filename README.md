@@ -111,8 +111,8 @@ I'm a 6th-semester BS Bioinformatics student at **NUST SINES**, Islamabad, build
 
 I'm always open to research collaborations, especially around affordable healthcare technology in low-resource settings.
 
-**Email:** youremail@gmail.com  
-**LinkedIn:** [linkedin.com/in/YOUR_HANDLE](https://linkedin.com/in/YOUR_HANDLE)  
+**Email:** asimasta7@gmail.com
+**LinkedIn:** [linkedin.com/in/YOUR_HANDLE](www.linkedin.com/in/asim-ahmed-107b43312)  
 **GitHub:** You're already here 🙂
 
 ---
