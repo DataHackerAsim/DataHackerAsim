@@ -62,19 +62,14 @@ resource-constrained settings across Pakistan.
       <td><b>🦟 MalariaSense</b></td>
       <td>YOLOv11 malaria parasite detection · 84% recall · targeting $300 deployment in Pakistan BHUs</td>
       <td><code>PyTorch</code> <code>YOLOv11</code> <code>OpenCV</code></td>
-      <td><i>Coming soon</i></td>
+      <td><a href="https://github.com/DataHackerAsim/AI-Powered-Cell-Level-Malaria-Screening-Device">→ View</a></td>
     </tr>
     <tr>
-  <tr>
-  <td><b>🎓 HAZIRI</b></td>
-  <td>Facial recognition attendance system · RetinaFace + InsightFace · IEEE ICIT 2026 accepted</td>
-  <td><code>Django</code> <code>InsightFace</code> <code>RetinaFace</code></td>
-  <td>
-    <i>Coming soon</i><br>
-    <a href="https://github.com/DataHackerAsim/Pro-Attend-AI" target="_blank">Click here</a>
-  </td>
-</tr>
-</tr>
+      <td><b>🎓 HAZIRI</b></td>
+      <td>Facial recognition attendance system · RetinaFace + InsightFace · IEEE ICIT 2026 accepted</td>
+      <td><code>Django</code> <code>InsightFace</code> <code>RetinaFace</code></td>
+      <td><a href="https://github.com/DataHackerAsim/Pro-Attend-AI">→ View</a></td>
+    </tr>
     <tr>
       <td><b>🧬 HG002 Variant Calling</b></td>
       <td>Nextflow DSL2 long-read variant calling · DeepVariant + Clair3 · benchmarked against GIAB on HPC</td>
