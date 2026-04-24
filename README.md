@@ -19,8 +19,6 @@
 <a href="https://sines.nust.edu.pk/">
   <img src="https://img.shields.io/badge/NUST%20SINES-BS%20Bioinformatics-1D4ED8?style=for-the-badge" />
 </a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=DataHackerAsim&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" />
 
 </div>
 
