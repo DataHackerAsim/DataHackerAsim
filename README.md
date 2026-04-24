@@ -39,7 +39,6 @@ resource-constrained settings across Pakistan.
 
 - 🏥 **MalariaSense** — FICS International Stage 3 Finalist
 - 📰 **IEEE ICIT 2026** — Accepted paper on AI-driven facial recognition attendance
-- 🤖 **NeuroRevive** — 8-channel EMG soft robotic glove for post-stroke rehabilitation (FYP)
 - 💻 Booted **Linux on RISC-V** — Custom LiteX/VexRiscv SoC on Nexys A7-100T FPGA
 - 🌍 **ISR @ SCALE, NUST** — Institutional Student Representative
 - 📍 Islamabad / Karachi, Pakistan
@@ -87,12 +86,6 @@ resource-constrained settings across Pakistan.
       <td>MPI-parallelised cardiac electrophysiology simulation with domain decomposition</td>
       <td><code>C</code> <code>MPI</code> <code>OpenMPI</code></td>
       <td><a href="https://github.com/DataHackerAsim/cardiac-electrophysiology-mpi">→ View</a></td>
-    </tr>
-    <tr>
-      <td><b>🤖 NeuroRevive</b></td>
-      <td>8-channel EMG soft robotic glove for post-stroke hand rehabilitation (Final Year Project)</td>
-      <td><code>ESP32-S3</code> <code>ADS1115</code> <code>BLE</code> <code>C++</code></td>
-      <td><i>In development</i></td>
     </tr>
   </tbody>
 </table>
