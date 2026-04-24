@@ -12,7 +12,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/IEEE%20ICIT%202026-Accepted-00629B?style=for-the-badge&logo=ieee&logoColor=white" />
 &nbsp;
-<a href="https://fics.seas.upenn.edu/">
+<a href="https://fics.nust.edu.pk/#event">
   <img src="https://img.shields.io/badge/FICS%20International-Stage%203%20Finalist-F97316?style=for-the-badge" />
 </a>
 &nbsp;
