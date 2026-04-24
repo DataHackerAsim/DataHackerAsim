@@ -10,9 +10,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="YOUR_PAPER_LINK">
-  <img src="https://img.shields.io/badge/IEEE%20ICIT%202026-Accepted-00629B?style=for-the-badge&logo=ieee&logoColor=white" />
-</a>
+<img src="https://img.shields.io/badge/IEEE%20ICIT%202026-Accepted-00629B?style=for-the-badge&logo=ieee&logoColor=white" />
 &nbsp;
 <img src="https://img.shields.io/badge/FICS%20International-Stage%203%20Finalist-F97316?style=for-the-badge" />
 &nbsp;
@@ -86,7 +84,7 @@ resource-constrained settings across Pakistan.
       <td><b>❤️ Parallel Cardiac Sim</b></td>
       <td>MPI-parallelised cardiac electrophysiology simulation with domain decomposition</td>
       <td><code>C</code> <code>MPI</code> <code>OpenMPI</code></td>
-      <td><i>Coming soon</i></td>
+      <td><a href="https://github.com/DataHackerAsim/cardiac-electrophysiology-mpi">→ View</a></td>
     </tr>
     <tr>
       <td><b>🤖 NeuroRevive</b></td>
