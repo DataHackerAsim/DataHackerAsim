@@ -65,13 +65,15 @@ resource-constrained settings across Pakistan.
       <td><i>Coming soon</i></td>
     </tr>
     <tr>
+  <tr>
   <td><b>🎓 HAZIRI</b></td>
+  <td>Facial recognition attendance system · RetinaFace + InsightFace · IEEE ICIT 2026 accepted</td>
+  <td><code>Django</code> <code>InsightFace</code> <code>RetinaFace</code></td>
   <td>
-    Facial recognition attendance system · RetinaFace + InsightFace · IEEE ICIT 2026 accepted<br>
+    <i>Coming soon</i><br>
     <a href="https://github.com/DataHackerAsim/Pro-Attend-AI" target="_blank">Click here</a>
   </td>
-  <td><code>Django</code> <code>InsightFace</code> <code>RetinaFace</code></td>
-  <td><i>Coming soon</i></td>
+</tr>
 </tr>
     <tr>
       <td><b>🧬 HG002 Variant Calling</b></td>
