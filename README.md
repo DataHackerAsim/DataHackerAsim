@@ -12,9 +12,13 @@
 &nbsp;
 <img src="https://img.shields.io/badge/IEEE%20ICIT%202026-Accepted-00629B?style=for-the-badge&logo=ieee&logoColor=white" />
 &nbsp;
-<img src="https://img.shields.io/badge/FICS%20International-Stage%203%20Finalist-F97316?style=for-the-badge" />
+<a href="https://fics.seas.upenn.edu/">
+  <img src="https://img.shields.io/badge/FICS%20International-Stage%203%20Finalist-F97316?style=for-the-badge" />
+</a>
 &nbsp;
-<img src="https://img.shields.io/badge/NUST%20SINES-BS%20Bioinformatics-1D4ED8?style=for-the-badge" />
+<a href="https://sines.nust.edu.pk/">
+  <img src="https://img.shields.io/badge/NUST%20SINES-BS%20Bioinformatics-1D4ED8?style=for-the-badge" />
+</a>
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=DataHackerAsim&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" />
 
