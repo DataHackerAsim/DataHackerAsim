@@ -162,7 +162,6 @@ resource-constrained settings across Pakistan.
 | # | Title | Venue | Status |
 |:---:|---|---|:---:|
 | 1 | AI-Powered Facial Recognition Attendance System | **IEEE ICIT 2026** | ✅ Accepted |
-| 2 | Bibliometric Analysis of Pakistani Computational Research Output | Journal | 🔄 Under Review |
 
 </div>
 
